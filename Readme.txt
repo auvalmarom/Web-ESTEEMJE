@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+This is a bootstrap template customized by me. I use this website for business plan competitions.
 
 Template Name: Yummy
 Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
